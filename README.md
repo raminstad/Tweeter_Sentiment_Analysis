@@ -1,4 +1,4 @@
-# tweeter_sentiment_analysis
+# Tweeter Sentiment Analysis
 ![79592twitter](https://user-images.githubusercontent.com/79353291/156964344-845f394f-9d6f-46ef-b37d-2733727db16e.jpeg)
 * [Notebook for this analysis](https://github.com/raminstad/tweeter_sentiment_analysis/blob/main/Tweeter_Sentiment_Analysis.ipynb)
 # Analysis Objectives
