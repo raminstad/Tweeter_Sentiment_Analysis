@@ -6,6 +6,11 @@
 # Dataset that will be utilized
 * From Kaggle
 * [Link for the dataset](https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech)
+# Potential packages
+* Pandas
+* Sklearn
+* Numpy
+* NLTK
 # Methods used for data cleaning and feature engineering
 ## Data cleaning
 * Removed contractions
